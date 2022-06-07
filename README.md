@@ -1,19 +1,10 @@
 # EvidenceMap_Corpus
-A gold standard dataset of randomized controlled trial (RCT) abstracts annotated with the EvidenceMap representation    
+two corpora were generated. A gold standard dataset of randomized controlled trial (RCT) abstracts annotated with the EvidenceMap representation    
+The “General” corpus includes a broad range of disease domains by randomly selecting 229 RCT article abstracts. 
+The “COVID-19” corpus includes 80 randomly selected COVID-19 RCT article abstracts to accommodate the increased demand for related evidence retrieval and synthesis resources during the pandemic. 
 
-Two corpora including 13,395 entities, 22,787 propositions and 316 maps were annotated from 211 disease-agnostic and 105 COVID-19 RCT abstracts based on the consensus of two independent annotators following EvidenceMap. 
-Descriptive statistics of the General and COVID-19 corpora
-		General	COVID-19
-Evidence Entities	Participant	1,275	563
-	Intervention & Comparator	2,996	1,006
-	Outcome	2,858	985
-	Measure	1,889	541
-	Count	403	209
-	Total	9,421	3,304
-Evidence Dependency	Dependent	4,793	1,548
-	Independent	19,629	6,189
-	Total	24,422	7,737
-Evidence Map	Arm 1	229	80
-	Arm 2	229	80
-RCT Article Abstracts		229	80
+The descriptive statistics of these two annotated corpora are listed in Table.
+
 ![image](https://user-images.githubusercontent.com/11466174/172398107-7a257dd9-2c60-49b2-aa52-dcf9854acf37.png)
+
+Dependent evidence relationships were used for constructing MEPs, and independent relationships can serve as negative samples for training machine learning based NLP models. 
