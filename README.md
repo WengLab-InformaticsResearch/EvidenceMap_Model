@@ -10,5 +10,9 @@ The descriptive statistics of these two annotated corpora are listed in Table.
 
 Dependent evidence relationships were used for constructing MEPs, and independent relationships can serve as negative samples for training machine learning based NLP models. 
 
-All annotations were conducted using the web-based interactive annotation tool Brat (https://brat.nlplab.org/). An example abstract with annotations is presented in Figure 5. ![image](https://user-images.githubusercontent.com/11466174/174745794-a4785b46-c187-4a14-a694-44fc3f54cf2e.png)
+All annotations were conducted using the web-based interactive annotation tool Brat (https://brat.nlplab.org/). An example abstract with annotations is presented:
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/11466174/174746112-2cfe2c50-3fef-4d74-9ef0-bdce6b5001e0.png">
+
+
 
