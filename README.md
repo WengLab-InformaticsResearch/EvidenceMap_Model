@@ -16,10 +16,10 @@ All annotations were conducted using the web-based interactive annotation tool B
 
 
 <br>
-__Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo722SuDnYZvFWpEa13RiXU/view)__
+Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo722SuDnYZvFWpEa13RiXU/view)    
 <br>
 **Running Environment:**
-1. Install tensorflow==2.3
-2. Install bert-for-tf2
-3. Install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz
+1. Install tensorflow==2.3    
+2. Install bert-for-tf2    
+3. Install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz    
 <br>
