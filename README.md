@@ -14,7 +14,7 @@ All annotations were conducted using the web-based interactive annotation tool B
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/11466174/174746112-2cfe2c50-3fef-4d74-9ef0-bdce6b5001e0.png">
 
-**Pretrained Models:**
+**Pretrained Models:**    
 <br>
 Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo722SuDnYZvFWpEa13RiXU/view).    
 <br>
@@ -23,3 +23,5 @@ Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo72
 2. Install bert-for-tf2    
 3. Install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz    
 <br>
+
+<div align="center">Yingcheng Sun (yingcheng.sun@columbia.edu), Tian Kang, Chunhua Weng</div>
