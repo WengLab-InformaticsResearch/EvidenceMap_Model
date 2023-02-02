@@ -26,5 +26,11 @@ Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo72
 2. Install bert-for-tf2    
 3. Install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz    
 <br>
+**Running the Code:**
+1. Unzip model.zip    
+2. Move all files under model/    
+3. Modify parser configuration parser_config.py    
+4. Run examples in wrapper.sh    
+
 
 <div align="center">Yingcheng Sun, Tian Kang, Chunhua Weng (cw2384@cumc.columbia.edu)</div>
