@@ -24,4 +24,4 @@ Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo72
 3. Install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz    
 <br>
 
-<div align="center">Yingcheng Sun (yingcheng.sun@columbia.edu), Tian Kang, Chunhua Weng</div>
+<div align="center">Yingcheng Sun, Tian Kang, Chunhua Weng (cw2384@cumc.columbia.edu)</div>
