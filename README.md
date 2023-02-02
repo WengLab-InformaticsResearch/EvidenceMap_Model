@@ -31,6 +31,6 @@ Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo72
 2. Move all files under model/    
 3. Modify parser configuration parser_config.py    
 4. Run examples in wrapper.sh    
-
+<br>
 
 <div align="center">Yingcheng Sun, Tian Kang, Chunhua Weng (cw2384@cumc.columbia.edu)</div>
