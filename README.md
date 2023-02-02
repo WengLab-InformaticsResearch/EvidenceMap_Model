@@ -14,9 +14,9 @@ All annotations were conducted using the web-based interactive annotation tool B
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/11466174/174746112-2cfe2c50-3fef-4d74-9ef0-bdce6b5001e0.png">
 
-
+**Pretrained Models:**
 <br>
-Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo722SuDnYZvFWpEa13RiXU/view)    
+Download pretrained models [here](https://drive.google.com/file/d/11lmAoUQ1Uyo722SuDnYZvFWpEa13RiXU/view).    
 <br>
 **Running Environment:**
 1. Install tensorflow==2.3    
